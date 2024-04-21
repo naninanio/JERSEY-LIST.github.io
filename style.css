@@ -2,12 +2,19 @@ body {
     font-family: "Roboto", sans-serif;
     font-weight: 700;
     font-style: normal;
-    font-size: 18px;
-    color: blue;
+    font-size: 17px;
     }
 
     .thead {
-     font-size: 23px;
+     font-size: 20px;
     }
 
+.shirt {
+        text-align: center;
+        padding: 10px;
+        font-size: 30px;
+        font-weight: 700;
+        font-style: normal;
+        line-height: 1.5;
+    }
 
