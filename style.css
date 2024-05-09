@@ -18,3 +18,24 @@ body {
         line-height: 1.5;
     }
 
+a {
+    display: block;
+    background-color: #00A9D4;
+    color: #fff;
+    padding: 15px;
+    cursor: pointer;
+    text-decoration: none;
+    width: 320px;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+.button-download {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30vh;
+    flex-direction: column;
+    font-family: Arial, Helvetica, sans-serif;
+}
